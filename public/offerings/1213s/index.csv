@@ -1,0 +1,39 @@
+academicUnit,code,title,credit,webEnabled,levels,availableSeats,capacity,waitlistAvailable,mediumOfInstruction,detailAvailable
+Accountancy,GE1219,Smart Auditing for a Better Life,3,true,B,49,80,N,,true
+Building Science & Technology,GE1307,Appreciation of Built Heritage,3,true,"A,B",3,103,N,,true
+Building Science & Technology,GE1312,Infrastructure and People,3,true,"A,B",3,30,N,,true
+Building Science & Technology,GE2314,Construction As One of the Founding Stones of Modern Hong Kong,3,true,"A,B",1,101,N,,true
+Chinese Civilisation Centre,GE1101,Chinese Cultural Heritage in Modern Perspective,3,false,"A,B",3,30,N,,true
+Chinese Civilisation Centre,GE1104,Chinese Cultural Canons and Their Modern Application,3,true,"A,B",9,75,N,,true
+Chinese Civilisation Centre,GE1106,Chinese Art Appreciation,3,true,"A,B",3,50,N,,true
+Chinese Civilisation Centre,GE1107,The City in Chinese History and Culture,3,false,"A,B",3,30,N,,true
+Chinese Civilisation Centre,GE1108,The Silk Road: A Pathway of Interactive Culture from the Ancient to the Modern World,3,false,"A,B",6,30,N,,true
+Chinese Civilisation Centre,GE1114,Women's Lives in Chinese History,3,true,"A,B",3,75,N,,true
+Chinese Civilisation Centre,GE1115,Christianity and Chinese Culture,3,true,"A,B",4,50,N,,true
+Computer Science,GE2313,Global IT Case Studies,3,true,"A,B",1,60,N,,true
+Electronic Engineering,GE1331,Problem Solving Made Easy,3,true,B,19,82,N,,true
+Economics & Finance,GE1202,Managing Your Personal Finance,3,true,B,8,89,N,,true
+Economics & Finance,GE1205,Green Economics,3,true,B,3,80,N,,true
+Economics & Finance,GE2228,Value Creation in Various Industries,3,true,B,13,120,N,,true
+English,GE1401,University English,3,true,B,4,175,N,,true
+English,GE2401,English for Science,3,true,B,0,25,N,,true
+English,GE2402,English for Business Communication,3,true,B,5,76,N,,true
+English,GE2405,Creative Writing,3,true,B,15,50,N,,false
+English,GE2406,Shakespeare: Introduction to Genius,3,true,B,4,25,N,,false
+English,GE2407,"Reading Lives, Writing Selves: Autobiography and Culture",3,true,B,12,25,N,,true
+English,GE2409,Words and Images: Reading and Writing in the 21st Century,3,true,B,5,25,N,,true
+English,GE2410,English for Engineering,3,true,B,0,25,N,,true
+English,GE3401,Exploring English Cinema,3,true,B,3,75,N,,false
+Information Systems,GE1221,Navigating and Piloting: Venturing off the Land,3,true,"A,B",1,40,N,,true
+Mechanical and Biomedical Engg,GE1329,From Small Inventions to Big Successes,3,true,B,12,125,N,,true
+Mechanical and Biomedical Engg,GE1330,Learning from Nature,3,true,B,8,80,N,,true
+Management,GE1217,Competition and Cooperation in Diverse Contexts,3,true,"A,B",62,120,N,,true
+Marketing,GE1207,Organizational and Personal Image Management,3,true,"A,B",3,50,N,,true
+Marketing,GE2220,Sustainable Business: Doing Good Business While Doing Good,3,true,B,26,160,N,,true
+Management Sciences,GE2213,Understanding Uncertainty and Statistical Reasoning,3,true,"A,B",2,120,N,,true
+Public & Social Administration,GE1109,Values and Justice in the Contemporary World,3,true,B,1,45,N,,true
+Public & Social Administration,GE1120,Thinking Philosophically: Bridging the Gap between Arts and Sciences,3,true,B,1,45,N,,true
+School of Creative Media,GE1110,Exploring Contemporary Art,3,true,"A,B",6,90,N,,true
+School of Creative Media,GE4102,"Video Game: History, Industry, Society, and Creativity",3,true,B,7,58,N,,true
+Applied Social Sciences,GE2203,Psychology for Young Professionals,3,true,B,2,180,N,,true
+Applied Social Sciences,GE2223,Interpersonal Skills and Positive Personal Development,3,true,B,2,280,N,,true

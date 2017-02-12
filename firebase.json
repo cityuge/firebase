@@ -1,0 +1,29 @@
+{
+  "hosting": {
+    "public": "public",
+    "headers": [
+      {
+        "source": "**/*.@(json|csv)",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          },
+          {
+            "key": "Cache-Control",
+            "value": "max-age=7200"
+          }
+        ]
+      },
+      {
+        "source": "404.html",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=300"
+          }
+        ]
+      }
+    ]
+  }
+}

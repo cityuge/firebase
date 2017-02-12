@@ -1,0 +1,124 @@
+academicUnit,code,title,credit,webEnabled,levels,availableSeats,capacity,waitlistAvailable,mediumOfInstruction,detailAvailable
+Accountancy,GE1219,Smart Auditing for a Better Life,3,true,B,71,105,N,,true
+Accountancy,GE1222,Accounting in Everyday Life,3,true,B,65,210,N,,true
+Asian & International Studies,GE1121,"The Japanese Way of Tea: History, Arts, Architecture and Philosophy",3,true,B,1,120,N,,true
+Asian & International Studies,GE2117,"Eat, Drink, Man, Woman: Cultural Identity of Koreans",3,true,B,15,120,N,,true
+Asian & International Studies,GE2120,Asian Values and Managerial Practices,3,true,B,9,80,N,,true
+Asian & International Studies,GE2205,Lifestyle Diversity and Choices,3,true,B,28,60,N,,true
+Asian & International Studies,GE2206,Sustainable Cities for the 21st Century,3,true,B,28,60,N,,true
+Asian & International Studies,GE2239,"Food: Culture, Science and Society",3,true,B,3,60,N,,true
+Asian & International Studies,GE3102,Cultural Flows in East Asia,3,true,B,2,40,N,,true
+Asian & International Studies,GE3105,The Nuclear Imagination: Japan and Beyond,3,true,B,10,40,N,,true
+Physics & Materials Science,GE1338,"Seeing is Believing, or is it?",3,true,"A,B",11,70,N,,true
+Physics & Materials Science,GE2305,Astronomy - The Sky and Us,3,true,"A,B",8,185,N,,true
+Physics & Materials Science,GE2306,Energy and Technology,3,true,"A,B",1,55,N,,true
+Biology & Chemistry,GE1328,"Mind, Body and Energy",3,true,B,27,95,N,,true
+Biology & Chemistry,GE1346,The Chemists Kitchen (The Science of Food and Cooking),3,true,B,2,80,N,,true
+Biology & Chemistry,GE2307,"Science, Fiction and the Supernatural",3,true,"A,B",-1,102,N,,true
+Biology & Chemistry,GE2322,The Nobel Spirit,3,true,B,4,25,N,,true
+Building Science & Technology,GE1303,Urban Life and Development,3,true,"A,B",83,277,N,,true
+Building Science & Technology,GE2227,Preservation and Revitalization of Buildings with Heritage Value inside City Environments,3,true,"A,B",-5,102,N,,true
+Building Science & Technology,GE2311,Technology and Society,3,true,"A,B",1,110,N,,true
+Architecture and Civil Engg,GE1306,Urban Development and Construction - From the Past to the Future,3,true,"A,B",1,135,N,,true
+Architecture and Civil Engg,GE1313,Earthquakes,3,true,B,5,135,N,,true
+Architecture and Civil Engg,GE1318,Are We Safe?: Risks in Our Everyday Life,3,true,B,74,135,N,,true
+Architecture and Civil Engg,GE1323,Discovering the Living Environment: How Green Are You?,3,true,B,34,135,N,,true
+Architecture and Civil Engg,GE2251,"Survey in Daily Life: Engineering, Business, and Political Applications",3,true,B,105,135,N,,true
+Architecture and Civil Engg,GE2252,Transport and Development,3,true,B,112,135,N,,true
+Architecture and Civil Engg,GE2327,Green and Intelligent Buildings,3,true,B,40,135,N,,true
+Chinese and History,GE1104,Chinese Cultural Canons and Their Modern Application,3,true,"A,B",21,254,N,,true
+Chinese and History,GE1107,The City in Chinese History and Culture,3,true,"A,B",17,52,N,,true
+Chinese and History,GE1114,Women's Lives in Chinese History,3,true,"A,B",6,125,N,,true
+Chinese and History,GE1501,Chinese Civilisation - History and Philosophy,3,true,"A,B",31,960,N,,true
+Chinese and History,GE2114,World Archaeology and Heritage,3,true,"A,B",1,28,N,,true
+Col of Liberal Arts & Soc Sci,GE2111,Image of the City,3,true,B,2,120,N,,true
+Media and Communication,GE1210,Celebrities and Media: Contemporary Issues in Hong Kong Popular Culture,3,true,B,3,120,N,,true
+Media and Communication,GE2225,Media and Consumption: Food and Fashion in Everyday Life,3,true,B,6,120,N,,true
+Media and Communication,GE3201,China in the Eyes of World Media,3,true,B,93,120,N,,true
+Media and Communication,GE3202,Citizen Journalism and Civil Society,3,true,"A,B",4,120,N,,true
+Computer Science,GE2313,Global IT Case Studies,3,true,"A,B",3,120,N,,true
+Computer Science,GE2324,The Art and Science of Data,3,true,"A,B",11,60,N,,true
+Computer Science,GE2326,Probability in Action: From the Unfinished Game to the Modern World,3,true,"A,B",17,62,N,,true
+Sch of Energy and Environment,GE1301,Climate Change and Extreme Weather,3,true,"A,B",3,80,N,,true
+Sch of Energy and Environment,GE1308,Energy: Today and Tomorrow,3,true,"A,B",1,80,N,,true
+Sch of Energy and Environment,GE1337,Urban Green City: Pollution and Solution,3,true,B,2,40,N,,true
+Electronic Engineering,GE1315,How Do You Turn Sand on a Beach into a Trillion Dollars?,3,true,B,7,55,N,,true
+Electronic Engineering,GE1322,"Brain Machine Interface: Technology, Culture, and Society",3,true,B,101,155,N,,true
+Electronic Engineering,GE1331,Problem Solving Made Easy,3,true,B,2,104,N,,true
+Electronic Engineering,GE1339,Wireless Connectivity in Modern Society,3,true,B,1,150,N,,true
+Electronic Engineering,GE1342,Light: from Double Rainbows to Optical Fibers,3,true,B,1,100,N,,true
+Electronic Engineering,GE1345,"Consumer Electronics: Its Technology, Developments and Evolution",3,true,B,105,150,N,,true
+Economics & Finance,GE1205,Green Economics,3,true,B,8,300,N,,true
+Economics & Finance,GE2208,China in the Global Economy,3,true,"A,B",71,90,N,,true
+Economics & Finance,GE2229,Uncovering the Global Economy through News,3,true,B,130,210,N,,true
+Economics & Finance,GE2238,Global Financial Markets and their Societal Impact,3,true,B,112,140,N,,true
+English,GE1401,University English,3,true,B,96,650,N,,true
+English,GE2108,Literature in Our Lives,3,true,"A,B",36,110,N,,true
+English,GE2115,America: Peoples and Cultures of the United States,3,true,"A,B",2,60,N,,true
+English,GE2222,"Sports, Culture and Society",3,true,B,0,60,N,,true
+English,GE2401,English for Science,3,true,B,20,225,N,,true
+English,GE2402,English for Business Communication,3,true,B,118,795,N,,true
+English,GE2405,Creative Writing,3,true,B,7,51,N,,true
+English,GE2406,Shakespeare: Introduction to Genius,3,true,B,21,125,N,,false
+English,GE2407,"Reading Lives, Writing Selves: Autobiography and Culture",3,true,B,20,75,N,,true
+English,GE2408,Travel Writing: Discovery and Experience,3,true,B,5,202,N,,true
+English,GE2409,Words and Images: Reading and Writing in the 21st Century,3,true,B,2,75,N,,true
+English,GE2410,English for Engineering,3,true,B,53,525,N,,true
+English,GE2411,Legal English,3,true,B,2,60,N,,true
+English,GE3401,Exploring English Cinema,3,true,B,29,325,N,,false
+School of Law,GE1126,Law for Smart Consumers,3,true,B,58,200,N,,true
+School of Law,GE1214,Citizens and Criminal Justice,3,true,B,11,150,N,,true
+Information Systems,GE1201,Information Management and Its Social Impact,3,true,"A,B",62,80,N,,true
+Information Systems,GE1203,Managing Fitness in the 21st Century,3,true,"A,B",0,30,N,,true
+Information Systems,GE1206,Accelerating Professional Growth on the Web,3,true,"A,B",20,80,N,,true
+Information Systems,GE1212,Building Personal and Firm Images in the Digital Society,3,true,B,1,80,N,,true
+Linguistics and Translation,GE1132,"Mind, Brain and Language: How Are Human Beings Special?",3,true,B,7,80,N,,true
+Linguistics and Translation,GE2122,"The Cantonese Language in Use: Language, Grammar and Culture",3,true,"A,B",7,80,N,,true
+Linguistics and Translation,GE2124,The World through Languages,3,true,"A,B",13,110,N,,true
+Linguistics and Translation,GE2125,"The Bible: Its History, Literature, and Influence",3,true,B,6,72,N,,true
+Linguistics and Translation,GE2128,The Sounds of the World’s Languages,3,true,B,8,60,N,,true
+Mathematics,GE1327,Navigating Risk,3,true,B,18,76,N,,true
+Mechanical and Biomedical Engg,GE1320,Engineering Your Health,3,true,B,24,90,N,,true
+Mechanical and Biomedical Engg,GE1321,Our Life in the Nuclear Age,3,true,B,32,90,N,,true
+Mechanical and Biomedical Engg,GE1325,From Ideas to Innovative Design,3,true,B,7,30,N,,true
+Mechanical and Biomedical Engg,GE1340,"Materials, Civilization and Modern Development",3,true,B,1,50,N,,true
+Mechanical and Biomedical Engg,GE2320,Robots in Our Life: How Applications of Robots Affect Our Life and Society,3,true,B,67,90,N,,true
+Mechanical and Biomedical Engg,GE2321,"Health, Safety and Environment",3,true,B,0,90,N,,true
+Management,GE1216,"Loving Work, Working to Love",3,true,"A,B",33,160,N,,true
+Management,GE2212,Contemporary Business Communication,3,true,"A,B",68,80,N,,true
+Management,GE2232,Knowing Ourselves Better in Work and Life,3,true,"A,B",55,80,N,,true
+Marketing,GE1225,Become a Smart and Responsible Consumer,3,true,B,24,210,N,,true
+Marketing,GE2220,Sustainable Business: Doing Good Business While Doing Good,3,true,B,71,160,N,,true
+Marketing,GE2240,Sustainable Development in China and its Global Impact,3,true,B,60,80,N,,true
+Marketing,GE2248,Understanding Persuasion in Everyday Life,3,true,B,4,160,N,,true
+Management Sciences,GE2202,Globalization and Business,3,true,B,55,95,N,,true
+Management Sciences,GE2213,Understanding Uncertainty and Statistical Reasoning,3,true,"A,B",54,360,N,,true
+Public Policy,GE1109,Values and Justice in the Contemporary World,3,true,B,1,90,N,,true
+Public Policy,GE1117,Music and Human Values: Philosophical Investigations,3,true,B,0,45,N,,true
+Public Policy,GE1118,Philosophy Goes to the Movies,3,true,B,0,45,N,,true
+Public Policy,GE1120,Thinking Philosophically: Bridging the Gap between Arts and Sciences,3,true,B,9,45,N,,true
+Public Policy,GE1218,Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World,3,true,B,62,90,N,,true
+Public Policy,GE1220,Enhancing Your Service Leadership for the 21st Century,3,true,B,1,90,N,,true
+Public Policy,GE2101,Rational Thinking and Creative Ideas,3,true,B,2,135,N,,true
+Public Policy,GE2106,Philosophy and Life: A Dialogue,3,true,B,1,45,N,,true
+Public Policy,GE2210,China: A Socio-Political Transformation,3,true,"A,B",49,100,N,,true
+Public Policy,GE2217,Power and Politics,3,true,B,11,60,N,,true
+Col of Science & Engineering,GE1319,Interdisiplinary Research for Smart Professionals,3,true,"A,B",15,30,N,,true
+Systems Engg and Engg Mgt,GE1208,Communication and Teamwork,3,true,"A,B",2,80,N,,true
+Systems Engg and Engg Mgt,GE1326,Common Accidents in Modern Day City Life - Inevitable? Preventable?,3,true,B,2,119,N,,true
+Systems Engg and Engg Mgt,GE2319,Industrial Engineering and Management of Modern Enterprises,3,true,B,32,45,N,,true
+School of Creative Media,GE1102,Cinema: East and West,3,true,B,0,76,N,,true
+School of Creative Media,GE1110,Exploring Contemporary Art,3,true,"A,B",3,180,N,,true
+School of Creative Media,GE1113,Visual Storytelling and Cultural Thinking,3,true,"A,B",1,125,N,,true
+School of Creative Media,GE1128,Music for Film,3,true,"A,B",50,150,N,,true
+School of Creative Media,GE1129,Creative Photography,3,true,"A,B",1,78,N,,true
+School of Creative Media,GE1130,Introduction to Digital Media,3,true,B,2,87,N,,true
+School of Creative Media,GE1336,Wearable Technology: Future Fashion and Textile,3,true,B,3,40,N,,true
+School of Creative Media,GE4102,"Video Game: History, Industry, Society, and Creativity",3,true,B,2,120,N,,true
+School of Creative Media,GE4103,"Technologies in Art, Science and Everyday Life",3,true,B,1,40,N,,true
+Applied Social Sciences,GE2109,"Love, Sex, and Relationships: Psychological Perspectives",3,true,B,11,300,N,,true
+Applied Social Sciences,GE2129,Psychology for Young Professionals,3,true,B,21,360,N,,true
+Applied Social Sciences,GE2211,"Sexuality, Culture and Diversity",3,true,B,1,80,N,,true
+Applied Social Sciences,GE2218,Career Excellence in the 21st Century,3,true,B,0,60,N,,true
+Applied Social Sciences,GE2221,Violence and Crime,3,true,B,7,301,N,,true
+Applied Social Sciences,GE2223,Interpersonal Skills and Positive Personal Development,3,true,B,0,160,N,,true

@@ -1,0 +1,38 @@
+academicUnit,code,title,credit,webEnabled,levels,availableSeats,capacity,waitlistAvailable,mediumOfInstruction,detailAvailable
+Physics & Materials Science,GE2309,The World of NANO: The Next Big Thing Is Really Small,3,true,"A,B",15,61,N,,true
+Biology & Chemistry,GE2325,Chemistry of Sustainable Life,3,true,B,18,74,N,,true
+Architecture and Civil Engg,GE1332,Beauty of Ancient Chinese Architecture,3,true,B,4,137,N,,true
+Architecture and Civil Engg,GE2110,Experiencing Our Built Environment: Appreciation of Contemporary Architecture,3,true,"A,B",0,55,N,,true
+Chinese and History,GE1104,Chinese Cultural Canons and Their Modern Application,3,true,"A,B",12,100,N,,true
+Chinese and History,GE1107,The City in Chinese History and Culture,3,false,"A,B",1,30,N,,true
+Chinese and History,GE1108,The Silk Road: A Pathway of Interactive Culture from the Ancient to the Modern World,3,false,"A,B",0,30,N,,true
+Chinese and History,GE1501,Chinese Civilisation - History and Philosophy,3,true,"A,B",1,30,N,,true
+Computer Science,GE2324,The Art and Science of Data,3,true,"A,B",10,84,N,,true
+Electronic Engineering,GE1314,Ironman: The Art and Science of Robots in Our Society,3,true,B,1,82,N,,true
+Electronic Engineering,GE1347,Technology and the Land Trekking Adventurer,3,true,B,4,62,N,,true
+Economics & Finance,GE1202,Managing Your Personal Finance,3,true,B,4,120,N,,true
+Economics & Finance,GE1205,Green Economics,3,true,B,9,80,N,,true
+Economics & Finance,GE2228,Value Creation in Various Industries,3,true,B,72,120,N,,true
+Economics & Finance,GE2229,Uncovering the Global Economy through News,3,true,B,35,80,N,,true
+English,GE1401,University English,3,true,B,18,225,N,,true
+English,GE2401,English for Science,3,true,B,11,25,N,,true
+English,GE2402,English for Business Communication,3,true,B,19,75,N,,true
+English,GE2404,Asian Literature in English,3,true,B,5,25,N,,true
+English,GE2408,Travel Writing: Discovery and Experience,3,true,B,11,75,N,,true
+English,GE2410,English for Engineering,3,true,B,3,50,N,,true
+English,GE3401,Exploring English Cinema,3,true,B,19,75,N,,true
+Information Systems,GE1201,Information Management and Its Social Impact,3,true,"A,B",24,80,N,,true
+Mathematics,GE1327,Navigating Risk,3,true,B,8,97,N,,true
+Mechanical and Biomedical Engg,GE2301,Science and Technology: From Past to Future,3,true,"A,B",2,105,N,,true
+Marketing,GE1207,Organizational and Personal Image Management,3,true,"A,B",2,50,N,,true
+Marketing,GE2220,Sustainable Business: Doing Good Business While Doing Good,3,true,B,32,80,N,,true
+Marketing,GE2240,Sustainable Development in China and its Global Impact,3,true,B,67,80,N,,true
+Marketing,GE2248,Understanding Persuasion in Everyday Life,3,true,B,6,60,N,,true
+Public Policy,GE1109,Values and Justice in the Contemporary World,3,true,B,0,50,N,,true
+Public Policy,GE1120,Thinking Philosophically: Bridging the Gap between Arts and Sciences,3,true,B,9,50,N,,true
+Public Policy,GE3203,Sustainable Development of Hong Kong,3,false,"A,B",1,15,N,,true
+Systems Engg and Engg Mgt,GE2328,Understanding and Improving Enterprises for Future Leaders,3,true,B,21,68,N,,true
+School of Creative Media,GE1110,Exploring Contemporary Art,3,true,"A,B",4,80,N,,true
+Applied Social Sciences,GE2109,"Love, Sex, and Relationships: Psychological Perspectives",3,true,B,3,120,N,,true
+Applied Social Sciences,GE2129,Psychology for Young Professionals,3,true,B,3,60,N,,true
+Applied Social Sciences,GE2223,Interpersonal Skills and Positive Personal Development,3,true,B,4,280,N,,true
