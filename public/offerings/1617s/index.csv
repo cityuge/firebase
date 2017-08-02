@@ -1,0 +1,35 @@
+academicUnit,code,title,credit,webEnabled,levels,availableSeats,capacity,waitlistAvailable,mediumOfInstruction,detailAvailable
+English,GE1401,University English,3,true,B,22,200,N,English,false
+English,GE2401,English for Science,3,true,B,12,25,N,English,false
+English,GE2402,English for Business Communication,3,true,B,25,75,N,English,false
+English,GE2404,Asian Literature in English,3,true,B,14,25,N,English,false
+English,GE2408,Travel Writing: Discovery and Experience,3,true,B,6,101,N,English,false
+English,GE2410,English for Engineering,3,true,B,28,50,N,English,false
+English,GE3401,Exploring English Cinema,3,true,B,23,75,N,English,false
+Chinese and History,GE1501,Chinese Civilisation - History and Philosophy,3,true,"A,B",3,102,N,Chinese (Eng Avail in Sem A/B),false
+Chinese and History,GE1101,Chinese Cultural Heritage in Modern Perspective,3,true,"A,B",16,80,N,English,false
+Chinese and History,GE1105,Chinese Music Appreciation,3,true,"A,B",5,80,N,English,false
+Chinese and History,GE1106,Chinese Art Appreciation,3,true,"A,B",3,80,N,English,false
+Public Policy,GE1120,Thinking Philosophically: Bridging the Gap between Arts and Sciences,3,true,B,8,40,N,English,false
+Applied Social Sciences,GE1134,Movies and Psychology,3,true,B,0,40,N,English,false
+Applied Social Sciences,GE2129,Psychology for Young Professionals,3,true,B,57,240,N,English,false
+Information Systems,GE1201,Information Management and its Social Impact,3,true,"A,B",14,80,N,English,false
+Economics & Finance,GE1202,Managing Your Personal Finance,3,true,B,13,80,N,English,false
+Economics & Finance,GE1205,Green Economics,3,true,B,16,80,N,English,false
+Marketing,GE1225,Become a Smart and Responsible Consumer,3,true,B,6,80,N,English,false
+Applied Social Sciences,GE2211,"Sexuality, Culture and Diversity",3,true,B,8,80,N,English,false
+Marketing,GE2220,Sustainable Business: Doing Good Business While Doing Good,3,true,B,59,80,N,English,false
+Applied Social Sciences,GE2221,Violence and Crime,3,true,B,4,80,N,English,false
+Applied Social Sciences,GE2223,Interpersonal Skills and Positive Personal Development,3,true,B,11,160,N,English,false
+Economics & Finance,GE2229,Uncovering the Global Economy through News,3,true,B,51,80,N,English,false
+Marketing,GE2240,Sustainable Development in China and its Global Impact,3,true,B,47,80,N,English,false
+Marketing,GE2248,Understanding Persuasion in Everyday Life,3,true,B,10,80,N,English,false
+Sch of Energy and Environment,GE1301,Climate Change and Extreme Weather,3,true,"A,B",6,30,N,English,false
+Physics & Materials Science,GE1305,Everyday Physics: Its Impact on You and Society,3,true,"A,B",1,50,N,English,false
+Building Science & Technology,GE1307,Appreciation of Built Heritage,3,true,A,48,80,N,English,false
+Mechanical and Biomedical Engg,GE2301,Science and Technology: From Past to Future,3,true,"A,B",49,90,N,English,false
+Electronic Engineering,GE2316,"Computing Snapshot, Today and Tomorrow",3,true,B,70,145,N,English,false
+Computer Science,GE2324,The Art and Science of Data,3,true,"A,B",3,84,N,English,false
+Biology & Chemistry,GE2325,Chemistry of Sustainable Life,3,true,B,49,80,N,English,false
+Architecture and Civil Engg,GE2327,Green and Intelligent Buildings,3,true,B,83,120,N,English,false
+Systems Engg and Engg Mgt,GE2336,Understanding Phenomena Around Us: An Introduction To Systems Thinking,3,true,B,23,40,N,English,false
